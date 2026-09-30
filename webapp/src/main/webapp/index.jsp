@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thank you, Happy Learning, Shrikant Deshmukh from Pune</h1>
-   <h1> Thank you for visiting this site</h1>
-    <h1> Shrirang, Adhiraj, Shrikant </h1>
+   <h1> Thank you for visiting </h1>
+    <h1> Jay Shree Ram  </h1>
 </form>
