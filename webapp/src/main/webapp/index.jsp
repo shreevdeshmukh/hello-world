@@ -34,5 +34,5 @@
 
    <h1> Thank you, Happy Learning, Shrikant Deshmukh from Pune</h1>
    <h1> Thank you for visiting </h1>
-    <h1> Jay Shree Ram,  Shrikant Deshmukh. Hello, Dipa </h1>
-</form>
+    <h1> Shrikant Deshmukh. </h1>
+</form> 
