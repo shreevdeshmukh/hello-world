@@ -32,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning, Shrikant Deshmukh from Pune</h1>
-   <h1> Thank you for visiting </h1>
+   <h1> Thank you</h1>
+   <h1> Thank you </h1>
     <h1> Shrikant Deshmukh. </h1>
 </form> 
