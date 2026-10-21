@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>DevOps Learning</h1>
-    <h1>Trainer Shrikant Deshmukh</h1>
+    <h1>Trainer Shrikant Deshmukh Pune</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -34,5 +34,5 @@
 
    <h1> Thank you</h1>
    <h1> Thank you </h1>
-    <h1> Shrikant Deshmukh. </h1>
+    <h1> Shrikant Deshmukh Pune. </h1>
 </form> 
